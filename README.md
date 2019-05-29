@@ -7,6 +7,8 @@
 * **Unity 3.0 (2010)**  
 * **Unity 4.0 (2012)**  
 * **Unity 5.0 (2015)**  
+  Major Features:
+  - WebGL support
 * **Unity 2017**  
 * **Unity 2018**  
   Major Features:
