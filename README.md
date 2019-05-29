@@ -8,5 +8,7 @@
 * **Unity 4.0 (2012)**  
 * **Unity 5.0 (2015)**  
 * **Unity 2017**  
-* **Unity 2019**  
+* **Unity 2018**  
+  Major Features:
+  - Tilemap
 * **Unity 2019**  
